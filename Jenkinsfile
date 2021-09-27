@@ -7,7 +7,7 @@ stage ('cloning clode from github')
 {
 steps
 {
-sh 'touch abc.txt'  
+sh 'touch akhi.txt'  
 }
 }
 stage ('testing the code')
